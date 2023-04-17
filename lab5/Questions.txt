@@ -1,0 +1,6 @@
+	1. WASS to read and print an array
+	2. WASS to find the sum of elements of array
+	3. WASS to find minimum and maximum among the elements of array
+	4. WASS to search whether an element is present in which location or not found
+	5. WASS to combine two arrays into a third array
+	6. WASS to arrange the elements in ascending order using Bubble Sort
