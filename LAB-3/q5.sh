@@ -5,5 +5,5 @@ reverse=$(echo $num | rev)
 if [ $num -eq $reverse ]
 then echo $num is a palindrome
 else
-echo $num is not a palindrom
+echo $num is not a palindrome
 fi
