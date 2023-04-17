@@ -1,0 +1,2 @@
+1. WASS to provide grade of the student
+2. WASS to compare 3 no.s

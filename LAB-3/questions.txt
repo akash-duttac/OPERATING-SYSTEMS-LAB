@@ -1,0 +1,5 @@
+	1. Wass to print all the even no. s within 1 to 100
+	2. Wass to check whether a no. Is prime or not.
+	3. Wass to check whether a number is Armstrong or not.
+	4. Wass to check whether a no. is a perfect no. or not
+    5. Wass to print the reverse of a given no. and check whether it is a palindrome or not.

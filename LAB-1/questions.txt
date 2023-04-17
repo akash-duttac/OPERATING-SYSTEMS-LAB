@@ -1,0 +1,3 @@
+1. WASS to add 2 no.s
+2. WASS to find average of 3 no.s
+3. WASS to perform calculator operations
